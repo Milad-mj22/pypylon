@@ -1,5 +1,5 @@
 
-◌Instructions:
+◌Instructions:<br />
   1-pip install pypylon <br />
   2-connect your basler camera <br />
   3-open final.py <br />
